@@ -1,0 +1,1 @@
+{"name":"Local: replace_word","url":"c:\\Users\\HP\\OneDrive\\Documents\\C-Plus-Plus\\Study\\replace_word.c","tests":[{"id":1717941577207,"input":"I hate you","output":"I love you"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"c:\\Users\\HP\\OneDrive\\Documents\\C-Plus-Plus\\Study\\replace_word.c","group":"local","local":true}
